@@ -70,6 +70,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
-
-
 *************
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/9f/1f/ff/9f1fffa1f0ca02f089d3df4360206d69.gif">
+</div>
