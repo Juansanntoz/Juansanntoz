@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# こんにちは 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/ab/de/8d/abde8d9dbb4fcb0b07ce2586f39346f6.gif">
